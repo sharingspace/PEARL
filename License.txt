@@ -10,10 +10,6 @@ There are many reasons for a project to use an open source license, but money is
 
 PEARL fixes this issue by allowing the project’s community to democratically decide “fair” retribution by for-profit users.  The incentive for retribution for the for-profit entity is a public ledger containing the for-profit user/business name, the money/resources contributed, and a rating from the community who is invested in the commons they’ve extracted from. This helps the community and for-profit entity communicate transparently, and make it obvious when an entity is extracting value without repayment. 
 
-If you modify or distribute copies of PEARL software, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.
-
-There is no warranty for PEARL software, and modified versions must be marked as changed, so that problems will not be attributed erroneously to authors of previous versions.
-
 The precise terms and conditions for copying, distribution and modification follow.
 
 
@@ -64,7 +60,6 @@ A separable portion of the object code, whose source code is excluded from the C
 If you convey an object code work under this section in, or with, or specifically for use in, a Consumer Product, and the conveying occurs as part of a transaction in which the right of possession and use of the Consumer Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this section must be accompanied by the Installation Information. 
 Corresponding Source conveyed, and Installation Information provided, must be in a format that is publicly documented (and with an implementation available to the public in source code form), and must require no special password or key for unpacking, reading or copying.
 6. Additional Terms.
-When you convey a copy of a covered work, you may at your option remove any additional permissions from that copy, or from any part of it. (Additional permissions may be written to require their own removal in certain cases when you modify the work.) You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.
 If additional permissions apply only to part of the Program, that part may be used separately under those permissions, but the entire Program remains governed by this License without regard to the additional permissions. If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms. Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
 Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:
 a) Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16 of this License; or
@@ -74,8 +69,6 @@ d) Limiting the use for publicity purposes of names of licensors or authors of t
 e) Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks; or
 f) Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions of it) with contractual assumptions of liability to the recipient, for any liability that these contractual assumptions directly impose on those licensors and authors.
 All other non-permissive additional terms are considered “further restrictions” within the meaning of section 9. 
- 
-If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term. If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
  
 7. Termination.
 You may not propagate or modify a covered work except as expressly provided under this License. Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 10).
