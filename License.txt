@@ -3,6 +3,8 @@ Version: 0.1, June 27, 2017
 Author: Rob Jameson
 
 
+
+
 PREAMBLE
 PEARL is a free, copyleft license for software and other kinds of works. It guarantees your freedom to change, share, and sell all versions of a program.
 
@@ -17,30 +19,52 @@ The precise terms and conditions for copying, distribution and modification foll
 0. DEFINITIONS
 PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity License, described herein.
 
+Source - This is the name for the original work that is licensed
+
+Covered Items - This is the name for all the covered works in a license (Source + Derivatives) which all carry the same license. 
+
+Maker(s) - This is the organization(s)/person(s) who or make the source.
+
 Upfront Reciprocity Process - The amount paid voluntarily “upfront” for use of a PEARL project for profit. 
 
-Post Reciprocity Process - The process of a for-profit user of PEARL software disclosing the amount of profit made and subsequently the community suggestions on an appropriate retribution amount. 
+Thereafter Reciprocity Process - The process of a for-profit user of PEARL software disclosing the amount of profit made and subsequently the community suggestions on an appropriate retribution amount. 
 
-PEARL Ledger - When any for-profit use of a PEARL project happens, the user agrees to provide their (or their business) name and amount contributed to be listed publicly for other stakeholder groups to see.
+PEARL Table - When any for-profit use of a PEARL project happens, the user agrees to provide their (or their business) name and amount contributed to be listed publicly for other stakeholder groups to see.
 
-Contribution Rank - The for-profit entity agrees to have their contributions tracked and ranked by the community of commons stakeholders. This can be done by amount contributed or by letting stakeholders vote on which contributions are the most “fair”.
+Rank - The for-profit entity agrees to have their contributions tracked and ranked by the community of commons stakeholders. This can be done by amount contributed or by letting stakeholders vote on which contributions are the most “fair”.
 
 Community Role - It’s a right of stakeholders involved with a PEARL project to be involved in identifying and voting the fairness of retribution by for-profit users. It relies on various social convergence mechanisms to encourage stakeholders to vote. 
 
 Consumer Product - A “consumer product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
 
 For the definitions of the following terms, please refer to the GPL v3.0:
-Modify, Propogate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Corresponding Source, Additional Permissions
+Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Corresponding Source, Additional Permissions
  
 
 
 
-1. BASIC PERMISSIONS
-All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work. This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
+1. BASIC Rules
+This License affirms your permission to add, run and propagate the Source and Covered Items. This License acknowledges your rights to fair use or its equivalent, as provided by copyright law, in your region. 
 
-You may make, run and propagate covered works that you do not convey, without conditions so long as your license otherwise remains in force. You may convey covered works to others for the sole purpose of having them make modifications exclusively for you, or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.
+By adding, running, and distributing Source or Covered Item, with or without modifications, for a profit you agree to disclose the use type(s), scale of implementation, and profit amounts generated from their sale/use to the Makers. 
 
- 
+The Maker(s) have the right to display these statistics in a PEARL Table in online/offline locations. 
+
+The Maker(s) have the right to solicit a public debate around fair retribution for the use of the Source and Covered Items, and hold votes for pre-determined stakeholder group(s) to suggest a fair retribution amount.
+
+The Maker(s) have the right to display non-monetary contributions by for-profit users, as well. This information can be stored in the PEARL Table alongside the other statistics.
+
+The Maker(s) st  
+
+
+
+
+Disclosure:
+With this works distribution, you must include:
+a) A file saying the name of the Maker, url of the Table, and url of the Forms for filling out disclosure information.
+b) a bla bla bla. 
+
+The Maker(s) 
 
 
 2. PROTECTING USERS’ LEGAL RIGHTS FROM ANTI-CIRCUMVENTION LAW
