@@ -21,7 +21,7 @@ PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity 
 
 Source - This is the name for the original work that is licensed
 
-Covered Items - This is the name for all the covered works in a license (Source + Derivatives) which all carry the same license. 
+Covered Items - This is the name for all the works covered by the PEARL (Source + Derivatives), allowing all works to carry the same license and terms. 
 
 Maker(s) - This is the organization(s)/person(s) who or make the source.
 
@@ -44,9 +44,12 @@ Modify, Propagate, Source Code, Standard Interface, System Libraries, Correspond
 
 
 1. BASIC Rules
-This License affirms your permission to add, run and propagate the Source and Covered Items. This License acknowledges your rights to fair use or its equivalent, as provided by copyright law, in your region. 
+This License affirms your permission to add, run and distribute the Source and Covered Items. This License acknowledges your rights to fair use or its equivalent in your region, as provided by copyright law. 
 
-By adding, running, and distributing Source or Covered Item, with or without modifications, for a profit you agree to disclose the use type(s), scale of implementation, and profit amounts generated from their sale/use to the Makers. 
+If you modify, sell, distribute, or otherwise use Source or Covered Items for a profit, you agree to disclose the following:
+     a) the way the Source or Covered Items is being used
+     b) the scale of use (user number, basic metrics)
+     c) the amount of profit generated, directly and indirectly, from the Source or Covered Items. 
 
 The Maker(s) have the right to display these statistics in a PEARL Table in online/offline locations. 
 
