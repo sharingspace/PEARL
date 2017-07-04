@@ -72,13 +72,13 @@ When you utilize Covered Item(s), you waive any legal power to forbid circumvent
 You may copy and distribute the Source and Covered Item(s). You may charge any price or no price for each copy that you share, and you may offer support or warranty protection for a fee. 
 
 You agree to conspicuously and appropriately publish the name and attribution link of the Maker.
-You agree to keep all License details, including any non-permissive terms added in accord with Section 6, included if you share or sell the Covered Item(s). 
+You agree to keep all License details, including any non-permissive terms added in accord with Section 6, including if you share or sell the Covered Item(s). 
 You agree to keep intact all notices of the absence of any warranty.
 
 
 
 
-4. CONVEYING MODIFIED SOURCE VERSIONS
+4. SHARING COPIES - MODIFIED VERSIONS
 You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 3, provided that you also meet all of these conditions:
 
 a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
@@ -91,31 +91,12 @@ d) If the work has interactive user interfaces, each must display Appropriate Le
 
 A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “aggregate” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.
 
-
-
-
-5. CONVEYING NON-SOURCE FORMS
-You may convey a covered work in object code form under the terms of sections 3 and 4, provided that you also convey the machine-readable Corresponding Source under the terms of this License, in one of these ways:
-
-a) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by the Corresponding Source fixed on a durable physical medium customarily used for software interchange.
-
-b) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either (1) a copy of the Corresponding Source for all the software in the product that is covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge.
-
-c) Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source. This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with subsection 5b.
-
-d) Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge. You need not require recipients to copy the Corresponding Source along with the object code. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source. Regardless of what server hosts the Corresponding Source, you remain obligated to ensure that it is available for as long as needed to satisfy these requirements.
-
-e) Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 6d.
-
-A separable portion of the object code, whose source code is excluded from the Corresponding Source as a System Library, need not be included in conveying the object code work.
-If you convey an object code work under this section in, or with, or specifically for use in, a Consumer Product, and the conveying occurs as part of a transaction in which the right of possession and use of the Consumer Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this section must be accompanied by the Installation Information. 
-
-Corresponding Source conveyed, and Installation Information provided, must be in a format that is publicly documented (and with an implementation available to the public in source code form), and must require no special password or key for unpacking, reading or copying.
+You may share Covered Items in other forms, provided that you also convey the human-readable PEARL, in a location that is publicly documented (and with an implementation available to the public in source code form). It must be accessible with no special password or key for unpacking, reading or copying.
 
 
 
 
-6. ADDITIONAL TERMS
+5. ADDITIONAL TERMS
 If additional permissions apply only to part of the Program, that part may be used separately under those permissions, but the entire Program remains governed by this License without regard to the additional permissions. If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms. Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
 
 Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:
@@ -137,7 +118,7 @@ All other non-permissive additional terms are considered “further restrictions
  
 
 
-7. TERMINATION
+6. TERMINATION
 You may not propagate or modify a covered work except as expressly provided under this License. Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 10).
 
 However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
@@ -149,13 +130,13 @@ Termination of your rights under this section does not terminate the licenses of
 
 
 
-8. ACCEPTANCE NOT REQUIRED FOR HAVING COPIES
+7. ACCEPTANCE NOT REQUIRED FOR HAVING COPIES
 You are not required to accept this License in order to receive or run a copy of the Program. Ancillary propagation of a covered work occurring solely as a consequence of using peer-to-peer transmission to receive a copy likewise does not require acceptance. However, nothing other than this License grants you permission to propagate or modify any covered work. These actions infringe copyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.
 
 
 
 
-9. AUTOMATIC LICENSING OF DERIVATIVE WORKS
+8. AUTOMATIC LICENSING OF DERIVATIVE WORKS
 Each time you modify a Covered Item, the derivative automatically receives the license of the original Source. 
 
 For Profit uses of the Source or Covered Works does not allow you to impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
@@ -167,7 +148,7 @@ b) a bla bla bla.
 
 
 
-10. PATENTS
+9. PATENTS
 A “contributor” is a copyright holder who authorizes use under this License of the Program or a work on which the Program is based. The work thus licensed is called the contributor's “contributor version”.
 
 A contributor's “essential patent claims” are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do not include claims that would be infringed only as a consequence of further modification of the contributor version. For purposes of this definition, “control” includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.
@@ -187,13 +168,13 @@ Nothing in this License shall be construed as excluding or limiting any implied 
 
 
 
-11. NO SURRENDER OF OTHERS’ FREEDOM
+10. NO SURRENDER OF OTHERS’ FREEDOM
 If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example, if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program, the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.
 
 
 
 
-12. REVISED VERSION OF THIS LICENSE
+11. REVISED VERSION OF THIS LICENSE
 There may be revised and/or new versions of this license from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
 Each version is given a distinguishing version number. If the Program specifies that a certain numbered version of the license “or any later version” applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version. If the Program does not specify a version number of the license, you may choose any version ever published.
@@ -201,19 +182,19 @@ Each version is given a distinguishing version number. If the Program specifies 
 
 
 
-13. DISCLAIMER OF WARRANTY
+12. DISCLAIMER OF WARRANTY
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
 
 
 
-14. LIMITATION OF LIABILITY
+13. LIMITATION OF LIABILITY
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 
 
 
-15. Interpretation of Sections 13 and 14.
+14. Interpretation of Sections 13 and 14.
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
 
