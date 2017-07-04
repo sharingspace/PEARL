@@ -6,9 +6,9 @@ Author: Rob Jameson
 
 
 PREAMBLE
-PEARL is a free, copyleft license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work and its derivatives.
+PEARL is a free, copyleft license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work (source + derivatives).
 
-There are many reasons for a project to use an open source license, but money is rarely one of them. With most open source licenses, there is no financial benefit for the Makers and project maintainers. On the contrary, open source projects are often used for profit by businesses who don’t reciprocate value at all.
+There are many reasons for a project to use an open source license, but money is rarely one of them. With open source licenses, there are no financial benefits for the works’s Makers and maintainers. On the contrary, open source projects are often used to make profit by businesses who don’t reciprocate value at all.
 
 PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger containing the profiting user/organization name(s), the reciprocity thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
 
@@ -83,18 +83,12 @@ Each time you modify a Covered Item, the derivative automatically receives the l
 
 For Profit uses of the Source or Covered Works does not allow you to impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
 
-Disclosure:
-With this works distribution, you must include:
-a) A file saying the name of the Maker, url of the Table, and url of the Forms for filling out disclosure information.
-b) a bla bla bla. 
-
 Attach the following notices to the program. It is safest to attach them to the start of each source file; and each file should have at least the following “PEARL” line, and a pointer to where the full notice is found.
  
-  <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+  <one line to give the works name and a brief overview of what it does.>
+    PEARL <year>  <name of Source Makers>
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the PEARL as published by AnyShare Society.
+    This Item is free to redistribute and/or modify under the terms of the PEARL as published by AnyShare Society and <Your organization’s name> at <url>.
 
     This Covered Item is distributed WITHOUT ANY WARRANTY; without even an implied warranty.
     You should have received a copy of PEARL along with this Covered Item. 
