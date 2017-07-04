@@ -60,18 +60,10 @@ The Maker(s) have the right to display monetary and non-monetary contributions b
 
 
 
-Disclosure:
-With this works distribution, you must include:
-a) A file saying the name of the Maker, url of the Table, and url of the Forms for filling out disclosure information.
-b) a bla bla bla. 
-
-The Maker(s) 
-
-
 2. PROTECTING USERS’ LEGAL RIGHTS FROM ANTI-CIRCUMVENTION LAW
-No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.
+No PEARL Covered Items(s) shall be part of an circumvention technological measure by any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws. 
 
-When you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit operation or modification of the work as a means of enforcing, against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.
+When you utilize Covered Item(s), you waive any legal power to forbid circumvention of technological measures, and you disclaim any intention to limit operation or modification of the work to enforce against other’s legal rights to forbid circumvention of technological measures.
 
 
 
@@ -161,12 +153,15 @@ You are not required to accept this License in order to receive or run a copy of
 
 
 
-9. AUTOMATIC LICENSING OF DOWNSTREAM RECIPIENTS
-Each time you convey a covered work, the recipient automatically receives a license from the original licensors, to run, modify and propagate that work, subject to this License. You are not responsible for enforcing compliance by third parties with this License.
+9. AUTOMATIC LICENSING OF DERIVATIVE WORKS
+Each time you modify a Covered Item, the derivative automatically receives the license of the original Source. 
 
-An “entity transaction” is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations. If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Corresponding Source of the work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.
-You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
+For Profit uses of the Source or Covered Works does not allow you to impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
 
+Disclosure:
+With this works distribution, you must include:
+a) A file saying the name of the Maker, url of the Table, and url of the Forms for filling out disclosure information.
+b) a bla bla bla. 
 
 
 
