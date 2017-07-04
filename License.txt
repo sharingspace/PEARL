@@ -1,5 +1,5 @@
 PEARL: A FOSS Reciprocity License
-Version: 0.1, June 27, 2017
+Version: 0.2, July 3, 2017
 Author: Rob Jameson
 
 
@@ -43,7 +43,7 @@ Modify, Propagate, Source Code, Standard Interface, System Libraries, Correspond
 
 
 
-1. BASIC Rules
+1. BASIC RULES
 This License affirms your permission to add, run and distribute the Source and Covered Items. This License acknowledges your rights to fair use or its equivalent in your region, as provided by copyright law. 
 
 If you modify, sell, distribute, or otherwise use Source or Covered Items for a profit, you agree to disclose the following to the Maker(s):
@@ -60,7 +60,7 @@ The Maker(s) have the right to display monetary and non-monetary contributions b
 
 
 
-2. PROTECTING USERS’ LEGAL RIGHTS FROM ANTI-CIRCUMVENTION LAW
+2. PROTECTING AGAINST ANTI-CIRCUMVENTION
 No PEARL Covered Items(s) shall be part of an circumvention technological measure by any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws. 
 
 When you utilize Covered Item(s), you waive any legal power to forbid circumvention of technological measures, and you disclaim any intention to limit operation or modification of the work to enforce against other’s legal rights to forbid circumvention of technological measures.
@@ -68,10 +68,12 @@ When you utilize Covered Item(s), you waive any legal power to forbid circumvent
 
 
 
-3. CONVEYING VERBATIM COPIES
-You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 6 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.
+3. SHARING COPIES - TERMS AND ATTRIBUTION
+You may copy and distribute the Source and Covered Item(s). You may charge any price or no price for each copy that you share, and you may offer support or warranty protection for a fee. 
 
-You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee.
+You agree to conspicuously and appropriately publish the name and attribution link of the Maker.
+You agree to keep all License details, including any non-permissive terms added in accord with Section 6, included if you share or sell the Covered Item(s). 
+You agree to keep intact all notices of the absence of any warranty.
 
 
 
