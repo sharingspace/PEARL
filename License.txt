@@ -6,13 +6,13 @@ Author: Rob Jameson
 
 
 PREAMBLE
-PEARL is a free, copyleft license for software and other kinds of works. It guarantees your freedom to change, share, and sell all versions of a program.
+PEARL is a free, copyleft license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work and its derivatives.
 
-There are many reasons for a project to use an open source license, but money is rarely one of them. With most open source licenses, there is no financial benefit for the creators and project maintainers. On the contrary, open source projects are often used by profit by businesses who don’t reciprocate at all.
+There are many reasons for a project to use an open source license, but money is rarely one of them. With most open source licenses, there is no financial benefit for the Makers and project maintainers. On the contrary, open source projects are often used for profit by businesses who don’t reciprocate value at all.
 
-PEARL fixes this issue by allowing the project’s community to democratically decide “fair” retribution by for-profit users.  The incentive for retribution for the for-profit entity is a public ledger containing the for-profit user/business name, the money/resources contributed, and a rating from the community who is invested in the commons they’ve extracted from. This helps the community and for-profit entity communicate transparently, and make it obvious when an entity is extracting value without repayment. 
+PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger containing the profiting user/organization name(s), the reciprocity thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
 
-The precise terms and conditions for copying, distribution and modification follow.
+The profiting user/organization is encourage to communicate via public discourse, especially when they are extracting value without repayment from a PEARL. 
 
 
 
