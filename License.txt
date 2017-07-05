@@ -19,23 +19,27 @@ PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity 
 
 Source - This is the name for the original work that is licensed
 
-Covered Item(s) - This is the name for all the works covered by the PEARL (Source + Derivatives), allowing all works to carry the same license and terms. 
+Covered Item(s) - This is the name for all the works covered by the PEARL (Source + Derivatives), thus with the same license and terms. 
 
-Maker(s) - This is the organization(s)/person(s) who or make the Source.
+Maker(s) - This is the organization(s)/person(s) originally licensed the Source.
 
 Contributor(s) - This includes any organization/person who contributes to the Source.
 
+Prospering Contributor(s) - This includes any Contributor(s) who benefit financially (directly or indirectly) through distributing, modifying, selling, or providing knowledge/services for Covered Items.
+
+Consumer Product - A “consumer product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+
 Proactive Reciprocity - The amount paid voluntarily “upfront” for use of a PEARL project for profit. 
 
-Requested Reciprocity - The process of a for-profit user of PEARL software disclosing the amount of profit made and subsequently the community suggestions on an appropriate retribution amount. 
+Requested Reciprocity - The process of a for-profit user of PEARL software disclosing the amount of profit made and subsequently the PDSG suggests on an appropriate retribution amount. 
 
 PEARL Table - When any for-profit use of a PEARL project happens, the user agrees to provide their (or their business) name and amount contributed to be listed publicly for other stakeholder groups to see.
 
-Rank - The for-profit entity agrees to have their contributions tracked and ranked by the community of commons stakeholders. This can be done by amount contributed or by letting stakeholders vote on which contributions are the most “fair”.
+Rating - The for-profit entity agrees to have their contributions tracked and rated by the PDSG. This can be done by amount contributed or by letting stakeholders vote on which contributions are the most “fair”.
 
-Community Role - It’s a right of stakeholders involved with a PEARL project to be involved in identifying and voting the fairness of retribution by for-profit users. It relies on various social convergence mechanisms to encourage stakeholders to vote. 
+Stakeholder Role - It’s a right of stakeholders involved with a PEARL project to be involved in identifying and voting on the fairness of retribution by Prospering Contributor(s). It relies on various social convergence mechanisms to encourage stakeholders to vote. 
 
-Consumer Product - A “consumer product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+PDSG - This refers to Pre-Defined Stakeholder Group(s), or groups of people who are classified as being invested in the work covered by the PEARL. These groups should be identified before 
 
 For the definitions of the following terms, please refer to the GPL v3.0:
 Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Corresponding Source, Additional Permissions
@@ -45,14 +49,16 @@ Modify, Propagate, Source Code, Standard Interface, System Libraries, Correspond
 1. BASIC RULES
 This License affirms your permission to add, run and distribute the Source and Covered Items. This License acknowledges your rights to fair use or its equivalent in your region, as provided by copyright law. 
 
-If you modify, sell, distribute, or otherwise use Source or Covered Items for a profit, you agree to disclose the following to the Maker(s):
+If you modify, sell, distribute, or otherwise use Covered Items for a profit, or sell knowledge/services for Covered Items, you agree to disclose the following to the Maker(s):
      a) the way the Source or Covered Item(s) is being used
      b) the scale of use (key metrics)
      c) the amount of profit or impact generated, directly and indirectly, from the Source or Covered Items. 
 
 The Maker(s) have the right to inquire about these statistics and present them in a PEARL Table to stakeholder groups they define. 
 
-The Maker(s) are encouraged to solicit a discussion around fair retribution for the for-profit use of the Source and Covered Items, and hold votes for pre-determined stakeholder group(s) to suggest a fair retribution amount.
+The Maker(s) are encouraged to solicit a discussion around fair retribution for the for-profit use of the Covered Items by the Prospering Contributors. 
+
+The Makers can hold votes to suggest a fair retribution amount for pre-defined stakeholder group(s).
 
 The Maker(s) have the right to display monetary and non-monetary contributions by for-profit organizations/users to the public. This information can be presented in the PEARL Table.
 
@@ -96,7 +102,7 @@ Attach the following notices to the program. It is safest to attach them to the 
 
 You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. PEARL does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. 
 
-Each Contributor to the Source grants you a non-exclusive, worldwide, royalty-free PEARL to use, modify, sell, share, and otherwise propagate its content. If you use/distribute any Covered Item, they must be available for anyone to copy, free of charge and under the terms of this License. 
+Being a Contributor to the PEARL grants you a non-exclusive, worldwide, royalty-free right to use, modify, sell, share, and otherwise propagate its content. If you use/distribute any Covered Item, they must be available for anyone to copy, free of charge and under the terms of this License. 
 
 You must behave in a manner consistent with the requirements of this License, and deprive yourself of the benefit of other license(s) (i.e. patents, copyrights, etc.) for this particular work for downstream recipients. If you share a covered item, and grant a patent license to the parties receiving the Covered Item authorizing them to use, modify, share and sell to Covered Item, then the patent license waiving is automatically extended to all recipients of the Covered Item based on the Source.
 
