@@ -6,43 +6,44 @@ Author: Rob Jameson
 
 
 PREAMBLE
-PEARL is a free, copyleft license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work (source + derivatives).
+PEARL is an open source license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work (source + derivatives).
 
-There are many reasons for a project to use an open source license, but money is rarely one of them. With open source licenses, there are no financial benefits for the works’s Makers and maintainers. On the contrary, open source projects are often used to make profit by businesses who don’t reciprocate value at all.
+There are many reasons for a project to use an open source license, but money is rarely one of them. With open source licenses, there are no financial benefits for the Makers and maintainers. On the contrary, open source projects are often used to make profit by businesses who don’t reciprocate value at all.
 
-PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger containing the profiting user/organization name(s), the reciprocity thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
+PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger called a PEARL Table that contains the profiting user/organization name(s), the reciprocity given thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
 
-The profiting user/organization is encourage to communicate via public discourse, especially when they are extracting value without repayment from a PEARL. 
+The profiting user(s)/organization(s), known as Prospering Contributors, are encouraged to communicate via public discourse, especially when they have extracted value from a PEARL without repayment. 
 
 0. DEFINITIONS
-PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity License, described herein.
+PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity License, described herein. It refers to the license and the work(s) to which the license is applied.
 
 Source - This is the name for the original work that is licensed
 
 Covered Item(s) - This is the name for all the works covered by the PEARL (Source + Derivatives), thus with the same license and terms. 
 
-Maker(s) - This is the organization(s)/person(s) originally licensed the Source.
+Maker(s) - This is the organization(s)/person(s) who originally licensed the Source.
 
 Contributor(s) - This includes any organization/person who contributes to the Source.
 
 Prospering Contributor(s) - This includes any Contributor(s) who benefit financially (directly or indirectly) through distributing, modifying, selling, or providing knowledge/services for Covered Items.
 
-Consumer Product - A “consumer product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+Consumer Product - A “Consumer Product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a Consumer Product regardless of whether the product has substantial commercial, industrial or non-consumer uses.
 
-Proactive Reciprocity - The amount paid voluntarily “upfront” for use of a PEARL project for profit. 
+PDSG - This stands for “Pre-Defined Stakeholder Group(s),” and refers to the groups of people who are invested in the maintenance and development of the PEARL. The PDSG members should be defined and vetted before they are included in voting and rating Prospering Contributors’ retribution.
 
-Requested Reciprocity - The process of a for-profit user of PEARL software disclosing the amount of profit made and subsequently the PDSG suggests on an appropriate retribution amount. 
+Proactive Reciprocity - This is the amount paid voluntarily “upfront” for use of a PEARL by Prospering Contributors. 
 
-PEARL Table - When any for-profit use of a PEARL project happens, the user agrees to provide their (or their business) name and amount contributed to be listed publicly for other stakeholder groups to see.
+Requested Reciprocity - This is the process whereby the PDSG suggests an appropriate retribution amount to Prospering Contributor(s) for their for-profit use of Covered Item(s). 
 
-Rating - The for-profit entity agrees to have their contributions tracked and rated by the PDSG. This can be done by amount contributed or by letting stakeholders vote on which contributions are the most “fair”.
+PEARL Table - When for-profit use of a PEARL happens, the Prospering Contributor(s) agree to provide their (or their business’) name, amount contributed, and other relevant statistics to be listed publicly in a PEARL Table. It consists of rows/columns of the aforementioned data.
+
+Rating - Prospering Contributors agree to have their contributions tracked and rated by the PDSG. This can be done in various ways, including points, grades, or other scoring means. It is key in helping the PDSG vote to find retribution types and amounts that are “fair”.
 
 Stakeholder Role - It’s a right of stakeholders involved with a PEARL project to be involved in identifying and voting on the fairness of retribution by Prospering Contributor(s). It relies on various social convergence mechanisms to encourage stakeholders to vote. 
 
-PDSG - This refers to Pre-Defined Stakeholder Group(s), or groups of people who are classified as being invested in the work covered by the PEARL. These groups should be identified before 
 
 For the definitions of the following terms, please refer to the GPL v3.0:
-Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Corresponding Source, Additional Permissions
+Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Additional Permissions
  
 
 
@@ -56,42 +57,43 @@ If you modify, sell, distribute, or otherwise use Covered Items for a profit, or
 
 The Maker(s) have the right to inquire about these statistics and present them in a PEARL Table to stakeholder groups they define. 
 
-The Maker(s) are encouraged to solicit a discussion around fair retribution for the for-profit use of the Covered Items by the Prospering Contributors. 
-
-The Makers can hold votes to suggest a fair retribution amount for pre-defined stakeholder group(s).
-
 The Maker(s) have the right to display monetary and non-monetary contributions by for-profit organizations/users to the public. This information can be presented in the PEARL Table.
+
+The Maker(s) are encouraged to solicit discussion(s) around fair retribution for the for-profit use of the Covered Items by the Prospering Contributors. 
+
+The Makers can hold votes with the PDSG to determine a fair retribution amount.
+
 
 
 
 
 2. DERIVATIVES
-You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 3, provided that you also meet all of these conditions:
+You may make a derivative work based on the Source, or the Covered Items, provided that you also meet all of these conditions:
 
-a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
+a) The work includes prominent notices stating that it is released with a PEARL, and any conditions added under Section 5. 
 
-b) The work must carry prominent notices stating that it is released under this License and any conditions added under section 5. This requirement modifies the requirement in section 3 to “keep intact all notices”.
+b) The work includes prominent notices stating that you modified it, and give a relevant date.
 
-c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, along with any applicable section 5 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
+c) You license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, along with any applicable Section 5 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
 
 d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.
 
-A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “aggregate” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.
+A compilation of Covered Item(s) with other separate and independent works, is called an “aggregate” if the compilation and its resulting license(s) are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of Covered Item(s) in an aggregate does not cause this License to apply to the other parts of the aggregate.
 
-You may share Covered Items in other forms, provided that you also convey the human-readable PEARL, in a location that is publicly documented (and with an implementation available to the public in source code form). It must be accessible with no special password or key for unpacking, reading or copying.
+You may share Covered Items(s) in other forms, provided that you also convey the human-readable PEARL, in a location that is publicly documented. It must be accessible with no special password or key for unpacking, reading or copying.
 
 
 
 
 
 3. DERIVATIVES - LICENSE REQUIREMENTS
-Each time you modify a Covered Item, the derivative automatically receives the license of the original Source. 
+Each time you modify Covered Item(s), the derivative automatically receives the license of the original Source. 
 
-For Profit uses of the Source or Covered Works does not allow you to impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
+For Profit uses of the Covered Item(s) does not allow Prospering Contributor(s) to impose further restrictions or exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or otherwise utilizing the Covered Item(s), wholly or in part.
 
-Attach the following notices to the program. It is safest to attach them to the start of each source file; and each file should have at least the following “PEARL” line, and a pointer to where the full notice is found.
+The following notices should be included with all Covered Items, ideally in the start of each source file. Each file should have at least the following “PEARL” line, and a pointer to where the full notice is found.
  
-  <one line to give the works name and a brief overview of what it does.>
+    <one line to give the works name and a brief overview of what it does.>
     PEARL <year>  <name of Source Makers>
 
     This Item is free to redistribute and/or modify under the terms of the PEARL as published by AnyShare Society and <Your organization’s name> at <url>.
@@ -100,7 +102,7 @@ Attach the following notices to the program. It is safest to attach them to the 
     You should have received a copy of PEARL along with this Covered Item. 
     If not, see <https://anyshare.coop/pearl-license/>.
 
-You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. PEARL does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. 
+PEARL does not permit incorporating Covered Items(s) into proprietary works. 
 
 Being a Contributor to the PEARL grants you a non-exclusive, worldwide, royalty-free right to use, modify, sell, share, and otherwise propagate its content. If you use/distribute any Covered Item, they must be available for anyone to copy, free of charge and under the terms of this License. 
 
