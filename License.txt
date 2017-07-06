@@ -13,6 +13,8 @@ There are many reasons for a project to use an open source license, but money is
 PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger called a PEARL Table that contains the profiting user/organization name(s), the reciprocity given thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
 
 The profiting user(s)/organization(s), known as Prospering Contributors, are encouraged to communicate via public discourse, especially when they have extracted value from a PEARL without repayment. 
+
+
 
 0. DEFINITIONS
 PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity License, described herein. It refers to the license and the work(s) to which the license is applied.
@@ -64,18 +66,19 @@ The Makers can hold votes with the PDSG to determine a fair retribution amount.
 
 
 2. SHARING TERMS AND ATTRIBUTION
-Being a Contributor to the PEARL grants you a non-exclusive, worldwide, royalty-free right to use, modify, sell, share, and otherwise propagate its content. If you use/distribute any Covered Item, they must be available for anyone to copy, free of charge and under the terms of this License. 
+Being a Contributor to the PEARL grants you a non-exclusive, worldwide, royalty-free right to use, modify, sell, share, and otherwise propagate its content. 
 
-You must behave in a manner consistent with the requirements of this License, and deprive yourself of the benefit of other license(s) (i.e. patents, copyrights, etc.) for this particular work for downstream recipients. If you share a covered item, and grant a patent license to the parties receiving the Covered Item authorizing them to use, modify, share and sell to Covered Item, then the patent license waiving is automatically extended to all recipients of the Covered Item based on the Source.
+You must behave in a manner consistent with the requirements of this License, and deprive yourself of the benefit of other license(s) (i.e. patents, copyrights, etc.) for this particular work for downstream recipients. If you share Covered Item(s), you grant a patent license to the parties receiving the Covered Item(s) authorizing them to use, modify, share and sell the Covered Item(s). The Patent waiving is automatically extended to all recipients of Covered Item(s).
 
-Nothing in this License shall limit any implied license or other defenses to intellectual property infringement that may otherwise be available to you under applicable law.
+Nothing in this License shall limit any defenses to intellectual property infringement that may otherwise be available to you under applicable law.
 
 
 You may copy and distribute the Source and Covered Item(s). You may charge any price or no price for each copy that you share, and you may offer support or warranty protection for a fee. 
 
 You agree to conspicuously and appropriately publish the name and attribution link of the Maker.
-You agree to keep all License details, including any non-permissive terms added in accord with Section 5, including if you share or sell the Covered Item(s). 
+You agree to keep all License details, including any non-permissive terms added in accord with Section 4, including if you share or sell the Covered Item(s). 
 You agree to keep intact all notices of the absence of any warranty.
+You agree to make Covered Item(s) available for anyone to access free of charge under the terms of this License. 
 
 The following notices should be included with any Covered Item(s). Each file, ideally in the start, should have at least the following PEARL line, and a pointer to where the full notice is found.
  
@@ -111,67 +114,74 @@ PEARL does not permit incorporating Covered Items(s) into proprietary works.
 
 
 
-
 4. ADDITIONAL TERMS
-If additional permissions apply only to part of the Program, that part may be used separately under those permissions, but the entire Program remains governed by this License without regard to the additional permissions. If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms. Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
+If you add terms to Covered Item(s) in accord with this section, you must place, in an easily accessible location, a statement of the additional terms that apply, or a notice indicating where to find the applicable terms. Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
 
-Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:
+If additional terms apply only to part of the Covered Item(s), that part may be used under those terms, but the entire Covered Items(s) remain governed by this License without regard to the additional terms. 
 
-a) Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16 of this License; or
+Notwithstanding any other terms in this License, and if authorized by the PEARL Maker(s), you may add terms to Covered Item(s) that supplement the terms of this License with:
 
-b) Requiring preservation of specified reasonable legal notices or author attributions in that material or in the Appropriate Legal Notices displayed by works containing it; or
+a) Disclaiming warranty or limiting liability differently from the terms of Sections 9 and 10 of this License; or
 
-c) Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material be marked in reasonable ways as different from the original version; or
+b) Requiring preservation of specified reasonable legal notices or Maker/Contributor attributions in Notices displayed according to Section 2; or
 
-d) Limiting the use for publicity purposes of names of licensors or authors of the material; or
+c) Prohibiting misrepresentation of the origin of the Source, or requiring that modified versions be marked in ways as different from the PEARL requirements; or
+
+d) Limiting the use for publicity purposes of names of Makers and/or Contributors of Covered Item(s); or
 
 e) Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks; or
 
-f) Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions of it) with contractual assumptions of liability to the recipient, for any liability that these contractual assumptions directly impose on those licensors and authors.
+f) Requiring indemnification of Makers and Contributors by anyone who distributes Covered Item(s) with contractual assumptions of liability to the recipient.
 
-All other non-permissive additional terms are considered “further restrictions” within the meaning of section 8. 
 
  
 
 5. TERMINATION
-You may not propagate or modify a covered work except as expressly provided under this License. Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 9).
+You may not modify, share, or sell Covered Item(s) except as expressly provided under this License. Any attempt otherwise to do so is void, and will automatically terminate your rights under this License.
 
-However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
+Your License rights can be reinstated if the Maker(s) notify you of the violation by reasonable means, this is your first notice of violation (for any Covered Item) from that Maker, and you fix the violation prior to 30 days after your receipt of the notice.
 
-Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
+If you cease all violation after 30 days, your rights are reinstated (a) provisionally, unless and until the Maker(s) explicitly and finally terminates your license, or (b) permanently, if the Maker fails to absolve you of the violation prior to 60 days after the violation notice is sent.
 
-Termination of your rights under this section does not terminate the licenses of parties who have received copies or rights from you under this License. If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 9.
+Termination of your rights under this section does not terminate the Licenses to parties who have received copies or rights from you under this License. If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same PEARL.
+
 
 
 
 6. AUTO-ACCEPTANCE
-You are not required to accept this License in order to receive or run a copy of the Program. Ancillary propagation of a covered work occurring solely as a consequence of using peer-to-peer transmission to receive a copy likewise does not require acceptance. However, nothing other than this License grants you permission to propagate or modify any covered work. These actions infringe copyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.
+You are not required to accept this License in order to receive or use any of the Covered Item(s). Distribution of Covered Item(s) occurring as a consequence of using peer-to-peer transmission likewise does not require acceptance. 
+
+Nothing other than this License grants you permission to distribute or modify any Covered Item(s). You indicate your acceptance of this License by modifying or distributing any Covered Item(s).
+
 
 
 
 7. NO SURRENDER OF OTHERS’ FREEDOM
-If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example, if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program, the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.
+If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this PEARL. If you cannot utilize Covered Item(s) so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you should refrain entirely from utilizing the Covered Item(s).
 
 No PEARL Covered Items(s) shall be part of an circumvention technological measure by any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws. 
 
-When you utilize Covered Item(s), you waive any legal power to forbid circumvention of technological measures, and you disclaim any intention to limit operation or modification of the work to enforce against other’s legal rights to forbid circumvention of technological measures.
+When you utilize Covered Item(s), you waive any legal power to forbid circumvention of technological measures, and you disclaim any intention to limit use or modification of the work to enforce against other’s legal rights to forbid circumvention of technological measures.
 
 
 
-8. REVISED VERSION OF THIS LICENSE
-There may be revised and/or new versions of this license from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
-Each version is given a distinguishing version number. If the Program specifies that a certain numbered version of the license “or any later version” applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version. If the Program does not specify a version number of the license, you may choose any version ever published.
+8. REVISIONS OF PEARL
+There may be new versions of this license, similar in spirit to the present version, but different detail to address new problems or concerns.
+
+Each PEARL version is given a version number. If the Covered Item(s) specify a certain version of the License “or any later version”, you have the option of following the terms and conditions either of that numbered version or of any later version. If the Covered Item does not specify a version number of the license, you may choose any version ever published.
+
 
 
 
 9. DISCLAIMER OF WARRANTY
-THERE IS NO WARRANTY FOR THE COVERED ITEM(S), TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE ITEM(S) ARE “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION THAT MAY OCCUR.
+There is no warranty for the Covered Item(s), to the extent permitted by applicable law. The Covered Item(s) are “as is” without warranty of any kind, either expressed or implied. You assume the cost of all necessary servicing, repair, or correction that may occur.
+
 
 
 
 10. LIMITATION OF LIABILITY
-IN NO EVENT WILL ANY MAKER OR ANY OTHER PARTY WHO MODIFIES AND/OR SHARES THE COVERED ITEM(S) AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE COVERED ITEM(S).
+IN NO EVENT WILL ANY MAKER OR Contributor who modifies and/or shares the Covered Item(s) as permitted above, be liable for damages, including any general, special, incidental or consequential damages arising out of the use or the inability to use the Covered Item(s). 
 
 
 
