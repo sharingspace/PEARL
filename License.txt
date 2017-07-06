@@ -6,43 +6,44 @@ Author: Rob Jameson
 
 
 PREAMBLE
-PEARL is a free, copyleft license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work (source + derivatives).
+PEARL is an open source license for various kinds of copyrightable works. It guarantees your freedom to modify, share, and sell all versions of a work (source + derivatives).
 
-There are many reasons for a project to use an open source license, but money is rarely one of them. With open source licenses, there are no financial benefits for the works’s Makers and maintainers. On the contrary, open source projects are often used to make profit by businesses who don’t reciprocate value at all.
+There are many reasons for a project to use an open source license, but money is rarely one of them. With open source licenses, there are no financial benefits for the Makers and maintainers. On the contrary, open source projects are often used to make profit by businesses who don’t reciprocate value at all.
 
-PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger containing the profiting user/organization name(s), the reciprocity thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
+PEARL fixes this issue by allowing the Makers to organize a community of supporters who democratically decide “fair” retribution from for-profit uses of the Covered Items.  The incentive for reciprocity is a public ledger called a PEARL Table that contains the profiting user/organization name(s), the reciprocity given thus far (financial or otherwise), relevant metrics, and ratings of this user/organization from the community. 
 
-The profiting user/organization is encourage to communicate via public discourse, especially when they are extracting value without repayment from a PEARL. 
+The profiting user(s)/organization(s), known as Prospering Contributors, are encouraged to communicate via public discourse, especially when they have extracted value from a PEARL without repayment. 
 
 0. DEFINITIONS
-PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity License, described herein.
+PEARL - This is an acronym for the People’s Ethical Appropriation Reciprocity License, described herein. It refers to the license and the work(s) to which the license is applied.
 
 Source - This is the name for the original work that is licensed
 
 Covered Item(s) - This is the name for all the works covered by the PEARL (Source + Derivatives), thus with the same license and terms. 
 
-Maker(s) - This is the organization(s)/person(s) originally licensed the Source.
+Maker(s) - This is the organization(s)/person(s) who originally licensed the Source.
 
 Contributor(s) - This includes any organization/person who contributes to the Source.
 
 Prospering Contributor(s) - This includes any Contributor(s) who benefit financially (directly or indirectly) through distributing, modifying, selling, or providing knowledge/services for Covered Items.
 
-Consumer Product - A “consumer product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+Consumer Product - A “Consumer Product” is anything sold. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. A product is a Consumer Product regardless of whether the product has substantial commercial, industrial or non-consumer uses.
 
-Proactive Reciprocity - The amount paid voluntarily “upfront” for use of a PEARL project for profit. 
+PDSG - This stands for “Pre-Defined Stakeholder Group(s),” and refers to the groups of people who are invested in the maintenance and development of the PEARL. The PDSG members should be defined and vetted before they are included in voting and rating Prospering Contributors’ retribution.
 
-Requested Reciprocity - The process of a for-profit user of PEARL software disclosing the amount of profit made and subsequently the PDSG suggests on an appropriate retribution amount. 
+Proactive Reciprocity - This is the amount paid voluntarily “upfront” for use of a PEARL by Prospering Contributors. 
 
-PEARL Table - When any for-profit use of a PEARL project happens, the user agrees to provide their (or their business) name and amount contributed to be listed publicly for other stakeholder groups to see.
+Requested Reciprocity - This is the process whereby the PDSG suggests an appropriate retribution amount to Prospering Contributor(s) for their for-profit use of Covered Item(s). 
 
-Rating - The for-profit entity agrees to have their contributions tracked and rated by the PDSG. This can be done by amount contributed or by letting stakeholders vote on which contributions are the most “fair”.
+PEARL Table - When for-profit use of a PEARL happens, the Prospering Contributor(s) agree to provide their (or their business’) name, amount contributed, and other relevant statistics to be listed publicly in a PEARL Table. It consists of rows/columns of the aforementioned data.
+
+Rating - Prospering Contributors agree to have their contributions tracked and rated by the PDSG. This can be done in various ways, including points, grades, or other scoring means. It is key in helping the PDSG vote to find retribution types and amounts that are “fair”.
 
 Stakeholder Role - It’s a right of stakeholders involved with a PEARL project to be involved in identifying and voting on the fairness of retribution by Prospering Contributor(s). It relies on various social convergence mechanisms to encourage stakeholders to vote. 
 
-PDSG - This refers to Pre-Defined Stakeholder Group(s), or groups of people who are classified as being invested in the work covered by the PEARL. These groups should be identified before 
 
 For the definitions of the following terms, please refer to the GPL v3.0:
-Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Corresponding Source, Additional Permissions
+Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Additional Permissions
  
 
 
