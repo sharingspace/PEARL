@@ -39,27 +39,24 @@ PEARL Table - When for-profit use of a PEARL happens, the Prospering Contributor
 
 Rating - Prospering Contributors agree to have their contributions tracked and rated by the PDSG. This can be done in various ways, including points, grades, or other scoring means. It is key in helping the PDSG vote to find retribution types and amounts that are “fair”.
 
-Stakeholder Role - It’s a right of stakeholders involved with a PEARL project to be involved in identifying and voting on the fairness of retribution by Prospering Contributor(s). It relies on various social convergence mechanisms to encourage stakeholders to vote. 
+Stakeholder Role - It’s a right of PDSG to be involved in identifying and voting on the fairness of retribution by Prospering Contributor(s). It relies on various social convergence mechanisms to encourage stakeholders to vote. 
 
-
-For the definitions of the following terms, please refer to the GPL v3.0:
-Modify, Propagate, Source Code, Standard Interface, System Libraries, Corresponding Source, System Libraries, Additional Permissions
  
 
 
 1. BASIC RULES
-This License affirms your permission to add, run and distribute the Source and Covered Items. This License acknowledges your rights to fair use or its equivalent in your region, as provided by copyright law. 
+This License affirms your permission to use, modify, distribute, and sell the Source and Covered Item(s). This License acknowledges your rights to fair use or its equivalent in your region, as provided by copyright law. 
 
-If you modify, sell, distribute, or otherwise use Covered Items for a profit, or sell knowledge/services for Covered Items, you agree to disclose the following to the Maker(s):
-     a) the way the Source or Covered Item(s) is being used
+If you modify, distribute, sell, or otherwise use Covered Items for a profit, or sell knowledge/services for Covered Items, you agree to disclose the following to the Maker(s):
+     a) the way the Covered Item(s) are being used
      b) the scale of use (key metrics)
-     c) the amount of profit or impact generated, directly and indirectly, from the Source or Covered Items. 
+     c) the amount of profit or impact generated, directly and indirectly, from the Covered Items. 
 
 The Maker(s) have the right to inquire about these statistics and present them in a PEARL Table to stakeholder groups they define. 
 
-The Maker(s) have the right to display monetary and non-monetary contributions by for-profit organizations/users to the public. This information can be presented in the PEARL Table.
+The Maker(s) have the right to display monetary and non-monetary contributions of Prospering Contributors to the public. This information can be presented in the PEARL Table.
 
-The Maker(s) are encouraged to solicit discussion(s) around fair retribution for the for-profit use of the Covered Items by the Prospering Contributors. 
+The Maker(s) can have discussion(s) on fair retribution for the for-profit use of the Covered Items by the Prospering Contributors. 
 
 The Makers can hold votes with the PDSG to determine a fair retribution amount.
 
@@ -68,19 +65,17 @@ The Makers can hold votes with the PDSG to determine a fair retribution amount.
 
 
 2. DERIVATIVES
-You may make a derivative work based on the Source, or the Covered Items, provided that you also meet all of these conditions:
+You may make a derivative work with any Covered Item(s), provided that you follow these conditions:
 
-a) The work includes prominent notices stating that it is released with a PEARL, and any conditions added under Section 5. 
+a) You include a prominent notice stating the Maker name(s) and that the work uses a PEARL (see Section 3 for specific language). If your derivative work has interactive user interfaces, each must display this notice.
 
-b) The work includes prominent notices stating that you modified it, and give a relevant date.
+b) You include notices stating that you modified the Covered Item(s), and give a relevant date.
 
-c) You license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, along with any applicable Section 5 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
+c) You license the entire work, as a whole, under this PEARL to anyone who comes into possession of a copy. This License will therefore apply, along with any additional terms in from Section 5, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
 
-d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.
+You may share Covered Items(s) in other forms, provided that you also convey the PEARL notice required in 2a in a location that is easily seen. It must be accessible with no special password or key for unpacking, reading or copying.
 
 A compilation of Covered Item(s) with other separate and independent works, is called an “aggregate” if the compilation and its resulting license(s) are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of Covered Item(s) in an aggregate does not cause this License to apply to the other parts of the aggregate.
-
-You may share Covered Items(s) in other forms, provided that you also convey the human-readable PEARL, in a location that is publicly documented. It must be accessible with no special password or key for unpacking, reading or copying.
 
 
 
